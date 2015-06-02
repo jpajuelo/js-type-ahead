@@ -1,0 +1,25 @@
+{
+  "name": "js-type-ahead",
+  "homepage": "https://github.com/jpajuelo/js-type-ahead",
+  "authors": [
+    "Jaime Pajuelo <jaimepk27@gmail.com>"
+  ],
+  "description": "A JavaScript plugin to display suggestions and autocomplete user queries.",
+  "main": "dist/type-ahead.min.js",
+  "keywords": [
+    "plugin",
+    "autocomplete",
+    "type-ahead",
+    "user-query"
+  ],
+  "license": "Apache License 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "devDependencies": {
+    "jasmine-jquery": "~2.1.0"
+  }
+}
